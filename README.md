@@ -10,9 +10,9 @@
 #### Skills:
 - C++/TypeScript/Python
 - Win32 desktop software (Windows API, Qt, Hybrid development, etc)
-- Electron/React/Node.js, including customized Chromium builds
-- Web services (RESTful APIs, RabbitMQ, SQL, Redis, etc.)
+- Electron/Cef/React/Node.js, customized Chromium builds
 - DirectX, graphics programming, hooking, obs-studio, etc.
+- Web services (RESTful APIs, RabbitMQ, SQL, Redis, etc.)
 
 
 ### Projects and Contributions 🔭
